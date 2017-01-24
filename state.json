@@ -8,59 +8,6 @@
         "size": 12,
         "rows": [
           {
-            "id": "38295737-3981-4e92-972c-f4ed7368e4a8",
-            "cells": [
-              {
-                "id": "70aab97c-4b30-41c8-abae-27bc4b9abaa9",
-                "inline": null,
-                "size": 12,
-                "layout": {
-                  "plugin": {
-                    "name": "example/layout/parallax",
-                    "version": "0.0.1"
-                  },
-                  "state": {
-                    "style": 3
-                  }
-                },
-                "rows": [
-                  {
-                    "id": "cf458259-3518-407f-8612-e82910d88bae",
-                    "cells": [
-                      {
-                        "id": "ae7ed996-467e-4e84-bfd3-a607ea930bcb",
-                        "inline": null,
-                        "size": 12,
-                        "content": {
-                          "plugin": {
-                            "name": "ory/editor/core/content/slate",
-                            "version": "0.0.1"
-                          },
-                          "state": {
-                            "serialized": {
-                              "nodes": [
-                                {
-                                  "kind": "block",
-                                  "type": "HEADINGS/HEADING-ONE",
-                                  "nodes": [
-                                    {
-                                      "kind": "text",
-                                      "text": "This is my new homepage!"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          }
-                        }
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "id": "c74ed193-a052-4e36-9497-63ae4617b738",
             "cells": [
               {
@@ -72,73 +19,13 @@
                     "name": "example/layout/parallax",
                     "version": "0.0.1"
                   },
-                  "state": {}
+                  "state": {
+                    "style": 2
+                  }
                 },
                 "rows": [
                   {
-                    "id": "23253a0e-62ae-47e5-86bc-f9cf0bc03b0a",
-                    "cells": [
-                      {
-                        "id": "5f0148fe-5503-4ee5-b56f-e776a4bb5527",
-                        "inline": null,
-                        "size": 6,
-                        "content": {
-                          "plugin": {
-                            "name": "ory/editor/core/content/slate",
-                            "version": "0.0.1"
-                          },
-                          "state": {
-                            "serialized": {
-                              "nodes": [
-                                {
-                                  "kind": "block",
-                                  "type": "HEADINGS/HEADING-FOUR",
-                                  "nodes": [
-                                    {
-                                      "kind": "text",
-                                      "text": "A home page ..."
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "id": "04b83eee-5109-4cda-bc69-ccda34d79510",
-                        "inline": null,
-                        "size": 6,
-                        "content": {
-                          "plugin": {
-                            "name": "ory/editor/core/content/slate",
-                            "version": "0.0.1"
-                          },
-                          "state": {
-                            "serialized": {
-                              "nodes": [
-                                {
-                                  "kind": "block",
-                                  "type": "HEADINGS/HEADING-THREE",
-                                  "nodes": [
-                                    {
-                                      "kind": "text",
-                                      "text": "...is importantasdfasdf"
-                                    }
-                                  ],
-                                  "data": {
-                                    "align": "right"
-                                  }
-                                }
-                              ]
-                            }
-                          }
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "26741913-b16f-43b0-87c1-676521232466",
+                    "id": "c4febb74-3e7e-42aa-833b-3dbdf72ffdc4",
                     "cells": [
                       {
                         "id": "b8ac30ff-b268-42df-8757-50af4c282b59",
@@ -154,11 +41,37 @@
                               "nodes": [
                                 {
                                   "kind": "block",
+                                  "type": "HEADINGS/HEADING-THREE",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Natrail Tagesklinik\nPrivate Tagesklinik für regenerative Medizin und Zahnmedizin"
+                                    }
+                                  ],
+                                  "data": {
+                                    "align": "center"
+                                  }
+                                },
+                                {
+                                  "kind": "block",
                                   "type": "PARAGRAPH/PARAGRAPH",
                                   "nodes": [
                                     {
                                       "kind": "text",
-                                      "text": "Read "
+                                      "text": "Rosenkavalierplatz 18\n81925 München"
+                                    }
+                                  ],
+                                  "data": {
+                                    "align": "center"
+                                  }
+                                },
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Telefon: 089 - 94 00 34 15\nFax: 089 94 00 34 17\n"
                                     },
                                     {
                                       "kind": "inline",
@@ -166,16 +79,29 @@
                                       "nodes": [
                                         {
                                           "kind": "text",
-                                          "text": "about us"
+                                          "text": "info@natrail.de"
                                         }
                                       ],
                                       "data": {
-                                        "href": "about-us.html"
+                                        "href": "info@natrail.de"
                                       }
                                     },
                                     {
                                       "kind": "text",
-                                      "text": ", now!"
+                                      "text": ""
+                                    }
+                                  ],
+                                  "data": {
+                                    "align": "center"
+                                  }
+                                },
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Geführt von Natrail GmbH\nGeschäftsführung: Dr. Georgetta Tapparo"
                                     }
                                   ],
                                   "data": {
@@ -188,55 +114,21 @@
                         }
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "3ca31f15-9a9b-4f0c-bfef-0ee09c904e61",
-            "cells": [
-              {
-                "id": "356bc0c7-081d-48fe-8252-86f0150c55b1",
-                "inline": null,
-                "size": 12,
-                "layout": {
-                  "plugin": {
-                    "name": "example/layout/parallax",
-                    "version": "0.0.1"
                   },
-                  "state": {
-                    "style": 3
-                  }
-                },
-                "rows": [
                   {
-                    "id": "4a1f74c9-9544-4f11-af43-756454d00709",
+                    "id": "8f2ef4fd-59ce-41ae-9e82-99a27278d86b",
                     "cells": [
                       {
-                        "id": "685ec7d2-dea8-4178-a03c-9b21983c8dea",
+                        "id": "a9b2db98-0555-4d60-b9e2-ade8109a8dc1",
                         "inline": null,
                         "size": 12,
                         "content": {
                           "plugin": {
-                            "name": "ory/editor/core/content/slate",
+                            "name": "ory/editor/core/content/spacer",
                             "version": "0.0.1"
                           },
                           "state": {
-                            "serialized": {
-                              "nodes": [
-                                {
-                                  "kind": "block",
-                                  "type": "PARAGRAPH/PARAGRAPH",
-                                  "nodes": [
-                                    {
-                                      "kind": "text",
-                                      "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
+                            "height": 506
                           }
                         }
                       }

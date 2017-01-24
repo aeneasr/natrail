@@ -22,7 +22,7 @@ const config = {
   },
   // helmet config applied to every page
   helmet: {
-    title: 'ORY Editor Static Page Demo',
+    title: 'Natrail Tagesklinik - Private Tagesklinik für regenerative Medizin und Zahnmedizin',
     meta: [
       { charset: 'utf-8' }
     ],
