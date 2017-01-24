@@ -1,0 +1,529 @@
+{
+  "index": {
+    "id": "index",
+    "cells": [
+      {
+        "id": "770050d9-eca3-4e31-9fdf-1a0c009356f1",
+        "inline": null,
+        "size": 12,
+        "rows": [
+          {
+            "id": "38295737-3981-4e92-972c-f4ed7368e4a8",
+            "cells": [
+              {
+                "id": "70aab97c-4b30-41c8-abae-27bc4b9abaa9",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 3
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "cf458259-3518-407f-8612-e82910d88bae",
+                    "cells": [
+                      {
+                        "id": "ae7ed996-467e-4e84-bfd3-a607ea930bcb",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "HEADINGS/HEADING-ONE",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "This is my new homepage!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c74ed193-a052-4e36-9497-63ae4617b738",
+            "cells": [
+              {
+                "id": "b52fc46d-5f36-4a75-8057-9b174023dc9c",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {}
+                },
+                "rows": [
+                  {
+                    "id": "23253a0e-62ae-47e5-86bc-f9cf0bc03b0a",
+                    "cells": [
+                      {
+                        "id": "5f0148fe-5503-4ee5-b56f-e776a4bb5527",
+                        "inline": null,
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "HEADINGS/HEADING-FOUR",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "A home page ..."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "04b83eee-5109-4cda-bc69-ccda34d79510",
+                        "inline": null,
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "HEADINGS/HEADING-THREE",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "...is importantasdfasdf"
+                                    }
+                                  ],
+                                  "data": {
+                                    "align": "right"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "26741913-b16f-43b0-87c1-676521232466",
+                    "cells": [
+                      {
+                        "id": "b8ac30ff-b268-42df-8757-50af4c282b59",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Read "
+                                    },
+                                    {
+                                      "kind": "inline",
+                                      "type": "LINK/LINK",
+                                      "nodes": [
+                                        {
+                                          "kind": "text",
+                                          "text": "about us"
+                                        }
+                                      ],
+                                      "data": {
+                                        "href": "about-us.html"
+                                      }
+                                    },
+                                    {
+                                      "kind": "text",
+                                      "text": ", now!"
+                                    }
+                                  ],
+                                  "data": {
+                                    "align": "center"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3ca31f15-9a9b-4f0c-bfef-0ee09c904e61",
+            "cells": [
+              {
+                "id": "356bc0c7-081d-48fe-8252-86f0150c55b1",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 3
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "4a1f74c9-9544-4f11-af43-756454d00709",
+                    "cells": [
+                      {
+                        "id": "685ec7d2-dea8-4178-a03c-9b21983c8dea",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "about-us": {
+    "id": "about-us",
+    "cells": [
+      {
+        "id": "31c79fcd-4bb8-4ee2-be70-f21f1f233630",
+        "inline": null,
+        "size": 12,
+        "rows": [
+          {
+            "id": "3df1db0c-683a-4dc5-b9b5-67157622cb90",
+            "cells": [
+              {
+                "id": "de6e9227-51d8-472a-8ed8-7f8f751af786",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 2
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "b70edf60-f092-4c64-9230-6d88a094908e",
+                    "cells": [
+                      {
+                        "id": "b81b7ccf-948c-43bb-8a70-ea32e8534261",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "HEADINGS/HEADING-ONE",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Let's talk about us!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5d3cfcf9-1c61-4239-810c-23714905c8f4",
+            "cells": [
+              {
+                "id": "48e929a3-e206-4afa-b41a-f1e909f737f8",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {}
+                },
+                "rows": [
+                  {
+                    "id": "b768f527-77fc-4723-bafe-ce2e72bd7899",
+                    "cells": [
+                      {
+                        "id": "20c6c6bf-ee2d-4ec1-ba2a-282932ff7b8b",
+                        "inline": "left",
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/image",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "src": "https://static.pexels.com/photos/4164/landscape-mountains-nature-mountain.jpeg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "f626b0c6-c9d9-499e-a7fe-dc1f876ccbf8",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "But what if all I have to say is lorem ipsum? Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "jakob": {
+    "id": "jakob",
+    "cells": [
+      {
+        "id": "37852845-7428-49a5-915b-3438a2016f84",
+        "inline": null,
+        "size": 12,
+        "rows": [
+          {
+            "id": "06781e5c-916f-4c54-8102-3cb7359e1cbb",
+            "cells": [
+              {
+                "id": "35aec09a-e56e-47a8-8d21-88498eab4923",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 2
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "afeaeb47-2078-44dd-acf6-1dda69071ec6",
+                    "cells": [
+                      {
+                        "id": "fc7a7b67-756b-4835-8b5f-8070a373e134",
+                        "inline": "right",
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/image",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "src": "https://static.pexels.com/photos/4164/landscape-mountains-nature-mountain.jpeg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "30f754b8-bce9-4014-b4af-ff11077858a6",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "HEADINGS/HEADING-TWO",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Hallo Jakob!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "309b4123-8c93-4e71-80df-fc6d2f32b7cc",
+            "cells": [
+              {
+                "id": "528d2b37-71dd-418b-9600-a481cb320582",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 2
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "130ae78c-3f99-46ed-9b06-d8ce30d5333e",
+                    "cells": [
+                      {
+                        "id": "04702c1c-20f5-4de7-ab2d-26f1df2afbcd",
+                        "inline": null,
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/video",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "src": "https://vimeo.com/196231197"
+                          }
+                        }
+                      },
+                      {
+                        "id": "4e8fc3aa-033f-4783-8935-f2f6c8564f6b",
+                        "inline": null,
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "asdfasdf"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
